@@ -26,7 +26,7 @@
     <jetty.version>11.0.12</jetty.version>
     <slf4j.version>2.0.4</slf4j.version>
     <jersey.version>3.0.4</jersey.version>
-    <weld.version>4.0.3.Final</weld.version>
+    <weld.version>5.1.0.Final</weld.version>
 
     <jetty-test-helper.version>6.0</jetty-test-helper.version>
   </properties>
