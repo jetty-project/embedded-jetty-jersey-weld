@@ -8,7 +8,7 @@
   <artifactId>jetty-jersey-weld</artifactId>
   <version>10.0.0-SNAPSHOT</version>
 
-  <name>jetty-jersey-weld</name>
+  <name>embedded-jetty-jersey-weld</name>
   <description>Embedded Jetty with Jersey and Weld</description>
 
   <properties>
