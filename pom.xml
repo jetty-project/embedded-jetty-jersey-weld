@@ -24,7 +24,7 @@
     <maven-install-plugin.version>3.1.1</maven-install-plugin.version>
 
     <jetty.version>10.0.19</jetty.version>
-    <slf4j.version>2.0.10</slf4j.version>
+    <slf4j.version>2.0.11</slf4j.version>
     <jersey.version>2.41</jersey.version>
     <weld.version>3.1.9.Final</weld.version>
 
