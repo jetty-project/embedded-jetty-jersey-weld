@@ -23,7 +23,7 @@
     <maven-jar-plugin.version>3.3.0</maven-jar-plugin.version>
     <maven-install-plugin.version>3.1.1</maven-install-plugin.version>
 
-    <jetty.version>11.0.19</jetty.version>
+    <jetty.version>11.0.20</jetty.version>
     <slf4j.version>2.0.11</slf4j.version>
     <jersey.version>3.0.11</jersey.version>
     <weld.version>4.0.3.Final</weld.version>
